@@ -1,0 +1,23 @@
+{
+  "name": "vanthink-ui",
+  "version": "1.0.0",
+  "description": "Vanthink UI is an open  css framework ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanthink-UED/VTUI.git"
+  },
+  "keywords": [
+    "ui",
+    "vanthink"
+  ],
+  "author": "Vanthink-UED",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vanthink-UED/VTUI/issues"
+  },
+  "homepage": "https://github.com/Vanthink-UED/VTUI#readme"
+}
