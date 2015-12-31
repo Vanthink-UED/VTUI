@@ -19,5 +19,16 @@
   "bugs": {
     "url": "https://github.com/Vanthink-UED/VTUI/issues"
   },
-  "homepage": "https://github.com/Vanthink-UED/VTUI#readme"
+  "homepage": "https://github.com/Vanthink-UED/VTUI#readme",
+
+  "dependencies": {
+    "gulp": "*",
+    "gulp-less": "*",
+    "gulp-util": "*",
+    "gulp-plumber": "*",
+    "gulp-uglify": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-minify-css": "*",
+    "gulp-rename": "*"
+  }
 }

@@ -1,7 +1,4 @@
-# Numerous always-ignore extensions
-*.diff
-*.err
-*.orig
+
 *.log
 *.rej
 *.swo
@@ -29,14 +26,11 @@ Desktop.ini
 $RECYCLE.BIN/
 .AppleDouble
 .LSOverride
-Icon
+
 .Spotlight-V100
 .Trashes
 node_server.js
 
-# Komodo
-*.komodoproject
-.komodotools
 
 
 # Folders to ignore

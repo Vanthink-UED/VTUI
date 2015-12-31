@@ -1,0 +1,21 @@
+
+#header{
+  position: relative;
+  background: #3498db;
+  color:#fff;
+  font-size: 39px;
+  line-height: 280px;
+  text-align: center;
+}
+
+
+#page{
+  width:1140px;
+  margin: 90px auto;
+}
+
+#footer{
+  padding-top: 30px;
+  text-align: center;;
+
+}
