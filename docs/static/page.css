@@ -10,10 +10,39 @@
 
 
 #page{
-  width:1140px;
+  width:1020px;
   margin: 90px auto;
 }
 
+h1.text-center{
+    padding-bottom: 90px;
+    text-align: center;
+}
+.demo-type .row{
+    margin-top: 30px;
+}
+section{
+    margin-bottom: 30px;
+}
+.icon-item{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-left: -1px;
+    margin-top: -1px;
+    line-height: 30px;
+    box-sizing: border-box;
+    text-align: center;
+    border:1px solid #ddd;
+    
+}
+.icon-item:hover{
+    background: #3498db;
+    color:#fff;
+}
+.icon-item span[class^="icon-"]{
+    font-size: 20px;
+}
 #footer{
   padding-top: 30px;
   text-align: center;;
